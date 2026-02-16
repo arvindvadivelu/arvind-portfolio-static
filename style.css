@@ -1,0 +1,69 @@
+/* CRITICAL: Prevent FOUC - Forced Dark Background */
+body {
+    background-color: #050505;
+    color: #ffffff;
+}
+
+/* Tech Stack Icon Handling */
+.tech-icon {
+    filter: grayscale(100%) brightness(200%) opacity(0.8);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Reveal Original Colors on Hover */
+.tech-item:hover .tech-icon {
+    filter: grayscale(0%) !important;
+    opacity: 1;
+    transform: scale(1.15) translateY(-5px);
+    brightness: 100%;
+}
+
+/* Nav Active State (Yellow) */
+.nav-active {
+    color: #FFD02F !important;
+    background-color: transparent !important;
+}
+
+/* Typewriter Cursor */
+.cursor-blink {
+    animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+
+/* Hide Scrollbar for Gallery */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Modal Animation */
+.modal-enter {
+    opacity: 0;
+    transform: scale(0.95);
+}
+
+.modal-enter-active {
+    opacity: 1;
+    transform: scale(1);
+    transition: all 0.3s ease-out;
+}
+
+.modal-exit {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.modal-exit-active {
+    opacity: 0;
+    transform: scale(0.95);
+    transition: all 0.2s ease-in;
+}
