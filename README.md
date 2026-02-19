@@ -53,12 +53,12 @@ My preferred stack for building scalable, high-performance applications.
 
 <div align="center">
   <img src="/assests/1.png" width="48%" style="border-radius: 6px; margin-right: 2.5%; border: 1px solid #eee;" alt="Portfolio View 1">
-  <img src="/assets/2.png" width="48%" style="border-radius: 6px; border: 1px solid #eee;" alt="Portfolio View 2">
+  <img src="/assests/2.png" width="48%" style="border-radius: 6px; border: 1px solid #eee;" alt="Portfolio View 2">
 </div>
 <br>
 <div align="center">
-  <img src="/assets/3.png" width="48%" style="border-radius: 6px; margin-right: 2.5%; border: 1px solid #eee;" alt="Portfolio View 3">
-  <img src="/assets/4.png" width="48%" style="border-radius: 6px; border: 1px solid #eee;" alt="Portfolio View 4">
+  <img src="/assests/3.png" width="48%" style="border-radius: 6px; margin-right: 2.5%; border: 1px solid #eee;" alt="Portfolio View 3">
+  <img src="/assests/4.png" width="48%" style="border-radius: 6px; border: 1px solid #eee;" alt="Portfolio View 4">
 </div>
 
 ---
