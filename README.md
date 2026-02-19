@@ -1,29 +1,26 @@
 <div align="center">
 
-  <h1 style="font-weight: 700; margin-bottom: 0;">
-    Arvind Vadivelu | Full Stack Developer & SDE
-  </h1>
+  <h1>Arvind Vadivelu | Full Stack Developer & SDE</h1>
   
-  <p style="color: #666; font-size: 1.1rem; max-width: 650px;">
-    Building Micro SaaS Products, Dynamic Web Apps, and Tools That Make An Impact. 
+  <p>
+    Building Micro SaaS Products, Dynamic Web Apps, and Tools That Make An Impact.<br>
     Specializing in MERN stack, Java, and Spring Boot to solve overlooked real-world problems.
   </p>
 
-  <div style="margin-top: 20px;">
+  <br>
+
+  <div>
+    <a href="YOUR_WEBSITE_LINK_HERE">
+      <img src="https://img.shields.io/badge/Portfolio-View_Live-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="mailto:varvind2004@gmail.com">
-      <img src="https://img.shields.io/badge/Let's_Talk-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/arvindvadivelu">
-      <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </div>
 
-  <div style="margin-top: 15px;">
-    <img src="https://img.shields.io/badge/Experience-0--1_Years-orange?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Projects-5%2B_Completed-yellow?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Status-Open_To_Partner-success?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Focus-Micro_SaaS_%7C_AI-blue?style=for-the-badge" />
-  </div>
 </div>
 
 <br><br>
