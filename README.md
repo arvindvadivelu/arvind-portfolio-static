@@ -33,8 +33,6 @@ I am **Arvind Vadivelu**, a Full Stack Developer and SDE based in Chennai. I spe
 - **Impact-Driven:** Focused on solving overlooked challenges that affect everyday lives.
 - **System Optimal:** Writing bug-free, clean code with an eye for architecture.
 
-
-
 ---
 
 ## 🛠️ Technical Arsenal
@@ -51,11 +49,25 @@ My preferred stack for building scalable, high-performance applications.
 
 ---
 
+## 📸 Portfolio Interface
+
+<div align="center">
+  <img src="/assests/1.png" width="48%" style="border-radius: 6px; margin-right: 2.5%; border: 1px solid #eee;" alt="Portfolio View 1">
+  <img src="/assets/2.png" width="48%" style="border-radius: 6px; border: 1px solid #eee;" alt="Portfolio View 2">
+</div>
+<br>
+<div align="center">
+  <img src="/assets/3.png" width="48%" style="border-radius: 6px; margin-right: 2.5%; border: 1px solid #eee;" alt="Portfolio View 3">
+  <img src="/assets/4.png" width="48%" style="border-radius: 6px; border: 1px solid #eee;" alt="Portfolio View 4">
+</div>
+
+---
+
 ## 💼 Career Trajectory
 
 | Timeline | Role & Company | Implementation Details |
 | :--- | :--- | :--- |
-| **Jun 2025 – Aug 2025** | **ML Engineer Intern** <br> *VCodez Private Limited* | Led a 3-engineer in a team building a full-stack AI app. Architected Flask backend and Streamlit interfaces. Handled client handover and architecture presentations. *(Python, Flask, Streamlit, ML, SQL)* |
+| **Jun 2025 – Aug 2025** | **ML Engineer Intern** <br> *VCodez Private Limited* | Led a 3-engineer team building a full-stack AI app. Architected Flask backend and Streamlit interfaces. Handled client handover and architecture presentations. *(Python, Flask, Streamlit, ML, SQL)* |
 | **Jun 2025 – Jul 2025** | **Full Stack Developer Intern** <br> *Leiten Technologies* | End-to-end development of Payroll & Event Management systems. Built React UIs, .NET backends, and optimized SQL schemas. Tested APIs via Postman. *(React, .NET, SQL, Postman)* |
 | **Dec 2024 – Jan 2025** | **Software Engineer Intern** <br> *Tata Communications Ltd.* | Developed cloud services module for an enterprise platform using Spring Boot and Angular. Managed AWS metadata workflows and CI/CD via Jenkins. *(Angular, Spring Boot, Jenkins, AWS, MongoDB)* |
 
@@ -66,8 +78,6 @@ My preferred stack for building scalable, high-performance applications.
 ### 1. FarmIQ 🌾
 An AI-powered agriculture intelligence platform developed for Smart India Hackathon (SIH) 2024. Integrates crop monitoring, crop identification, and intelligent recommendation systems.
 * **Tech:** HTML, CSS, JavaScript, Python, SQL
-
-
 
 ### 2. CarScrubz 🚗
 A modern, responsive car washing and detailing service website engineered for performance, clean UI, and seamless customer interaction.
